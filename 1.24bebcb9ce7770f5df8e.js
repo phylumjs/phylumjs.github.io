@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{303:function(n,a,i){"use strict";i.r(a),a.default='<div class="text-center">\n    <img src="/images/header.png" alt="PhylumJS" class="img-fluid">\n    <div class="lead">\n        High performance build framework for javascript applications\n    </div>\n    <hr>\n    Documentation will be available here soon!\n</div>\n'}}]);
